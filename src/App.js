@@ -17,6 +17,12 @@ function App() {
         >
           Learn React
         </a>
+
+        <button>Button</button>
+        <br />
+        <button disabled="disabled">hello</button>
+        <br />
+        <button type="reset">reset</button>
       </header>
     </div>
   );
